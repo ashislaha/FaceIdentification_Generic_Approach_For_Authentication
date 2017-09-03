@@ -34,3 +34,5 @@ Focus :
       color information, 
       Shape of Face Landmarks,
  
+-- update model after certain period of time (say 6 months) for better accuracy:
+Human beings face changes dynamically over ages and times. 
